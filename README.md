@@ -4,7 +4,8 @@
 
 **Authors:** Abdelkarim Achbani Abid, Daniel Muñoz Ortega  
 
-> **Note:** This summary is written in English, but the full research paper is in **Spanish**. All information presented here is a very short summary of the provided research documents.
+> [!NOTE]
+> This summary is written in English, but the full research paper is in **Spanish**. All information presented here is a very short summary of the provided research documents.
 
 ---
 
