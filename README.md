@@ -1,12 +1,17 @@
-
 # Statistical Analysis of the Aerodynamic Performance of Paper Airplanes
 ### An Experimental Study Using Statgraphics Centurion
 
 **Authors:** Abdelkarim Achbani Abid, Daniel Muñoz Ortega  
 
+📄 **[Click here to read the full Aerodynamic Performance Research Paper (PDF)](./Statistical-Analysis-of-the-Aerodynamic-Performance-of-Paper-Airplanes.pdf)**
+
 > [!NOTE]
 > This summary is written in English, but the full research paper is in **Spanish**. All information presented here is a very short summary of the provided research documents.
 
+## Repository Structure
+- `[Root]`: Contains the final research paper (PDF) with detailed findings, charts, and mathematical calculations.
+- `/data`: Contains the raw, anonymized dataset (`raw_launch_data.csv`) detailing all 108 recorded test flights.
+- `/analysis`: Contains the processed data matrices (`.sgd` format) used for the statistical modeling.
 ---
 
 ## Abstract
